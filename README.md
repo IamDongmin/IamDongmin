@@ -8,23 +8,27 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>  
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/></a>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=black"/></a>
+  <img src="https://img.shields.io/badge/Xilinx-E01F27?style=flat-square&logo=Xilinx&logoColor=white"/></a>
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/></a>
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/STMicroelectronics-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white"/></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=black"/></a>
   <img src="https://img.shields.io/badge/gitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/></a>
+<br/>
 </p>
 <br>
 
-<h3 align="center">🪄 Baekjoon & Github Stats 🪄</h3>
+<h3 align="center">🪄 Baekjoon 🪄</h3>
 <div align="center" style="text-align:center">
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chlehdals7)](https://solved.ac/chlehdals7/)
-
-<div align="center" style="text-align:center">
-
-![Dongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=IamDongmin&show_icons=true&theme=dark)   
 </p>
 <br>
 
